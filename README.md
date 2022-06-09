@@ -1,3 +1,3 @@
-# MLAG-Malaria_Aggregate
+# Malaria HMIS
 
 Malaria aggregate packages
