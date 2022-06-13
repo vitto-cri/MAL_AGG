@@ -581,94 +581,14 @@
                     "value": "Стандарт"
                 },
                 {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
                     "locale": "ar_EG",
                     "property": "NAME",
                     "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Putus berobat/default"
                 },
                 {
                     "locale": "cs",
                     "property": "NAME",
                     "value": "výchozí"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
                 },
                 {
                     "locale": "ru",
@@ -681,9 +601,29 @@
                     "value": "Padrao"
                 },
                 {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
                     "locale": "uz_UZ",
                     "property": "NAME",
                     "value": "standart"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
                 },
                 {
                     "locale": "id",
@@ -696,24 +636,9 @@
                     "value": "default"
                 },
                 {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "по умолчанию"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
                 },
                 {
                     "locale": "nb",
@@ -2324,6 +2249,28 @@
             "dataSetElements": [
                 {
                     "categoryCombo": {
+                        "id": "VkQPxB6VdoG"
+                    },
+                    "dataElement": {
+                        "id": "UwaQ0MJzXBz"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "kdMT3AuDzj1"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
@@ -2346,28 +2293,6 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "VkQPxB6VdoG"
-                    },
-                    "dataElement": {
-                        "id": "CxI1FHE4oEh"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "kdMT3AuDzj1"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
@@ -2382,7 +2307,7 @@
                         "id": "VkQPxB6VdoG"
                     },
                     "dataElement": {
-                        "id": "UwaQ0MJzXBz"
+                        "id": "CxI1FHE4oEh"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -2452,7 +2377,7 @@
         "DHIS2Version": "2.37.7",
         "code": "MAL_AGG_MMP",
         "description": "Malaria Mobile and Migrant Populations ",
-        "lastUpdated": "20220610T072454",
+        "lastUpdated": "20220612T222322",
         "locale": "en",
         "name": "MAL_AGG_MMP_AGG_DHIS2.37.7-en",
         "type": "AGG",
