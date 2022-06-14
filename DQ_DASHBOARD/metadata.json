@@ -438,9 +438,6 @@
                     "id": "oAJpTsMsRxv"
                 },
                 {
-                    "id": "kRM758TS6p7"
-                },
-                {
                     "id": "zItDfNaCDcR"
                 },
                 {
@@ -456,13 +453,13 @@
                     "id": "OCRFvqr1UkZ"
                 },
                 {
+                    "id": "AAFrGj6qxF9"
+                },
+                {
                     "id": "QHcjn7FHI2w"
                 },
                 {
                     "id": "yeQBWgHr3Wf"
-                },
-                {
-                    "id": "AAFrGj6qxF9"
                 },
                 {
                     "id": "KThZ4t55Q0A"
@@ -477,6 +474,9 @@
                     "id": "B0HiDb6gBa1"
                 },
                 {
+                    "id": "uPuVP7vVv75"
+                },
+                {
                     "id": "VxAkjvBMvfp"
                 },
                 {
@@ -486,6 +486,9 @@
                     "id": "C4MxCbqDJFy"
                 },
                 {
+                    "id": "kRM758TS6p7"
+                },
+                {
                     "id": "LCSjdxqMz7U"
                 },
                 {
@@ -493,9 +496,6 @@
                 },
                 {
                     "id": "acDxsQjnEof"
-                },
-                {
-                    "id": "uPuVP7vVv75"
                 },
                 {
                     "id": "APlaSyVyMqx"
@@ -828,7 +828,7 @@
             "code": "MAL_IPD_DTH",
             "denominator": -1,
             "denominatorDescription": "All-cause deaths",
-            "description": "Number of inpatient malaria deaths divided by number of all deaths at facility multiplied by 100 ",
+            "description": "Number of inpatient malaria deaths divided by number of all deaths at facility multiplied by 100",
             "id": "AAFrGj6qxF9",
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
@@ -1029,7 +1029,7 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": " Reporting Completeness (%)",
+            "shortName": "Reporting Completeness (%)",
             "translations": []
         },
         {
@@ -1160,6 +1160,31 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "MAL_DTH_REPORTED_%",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for malaria burden reduction",
+            "description": "Count of reports with the variable malaria deaths reported (e.g not blank) divided by actual number of reports received multiplied by 100",
+            "id": "uPuVP7vVv75",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - % reports with malaria deaths complete",
+            "numerator": -1,
+            "numeratorDescription": "Malaria deaths",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "% Malaria deaths actual reported",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "MAL_IPT_REPORTED_%",
             "denominator": -1,
             "denominatorDescription": "Actual report for malaria burden reduction",
@@ -1204,7 +1229,7 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": " % reports with microscopy positive complete",
+            "shortName": "% reports with microscopy positive complete",
             "translations": []
         },
         {
@@ -1404,31 +1429,6 @@
                     "value": "PALU - % de cas suspectés testés"
                 }
             ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_DTH_REPORTED_%",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for malaria burden reduction",
-            "description": "Count of reports with the variable malaria deaths reported (e.g not blank) divided by actual number of reports received multiplied by 100",
-            "id": "uPuVP7vVv75",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] % reports with malaria deaths complete",
-            "numerator": -1,
-            "numeratorDescription": "Malaria deaths",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "% Malaria deaths actual reported",
-            "translations": []
         }
     ],
     "legendSets": [
@@ -1451,6 +1451,25 @@
                         "users": {}
                     },
                     "startValue": 80.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#fdae61",
+                    "endValue": 40.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "kjjM7FWzhBS",
+                    "name": "20 - 40",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 20.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -1495,25 +1514,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#fdae61",
-                    "endValue": 40.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "kjjM7FWzhBS",
-                    "name": "20 - 40",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 20.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#d7191c",
                     "endValue": 20.0,
                     "externalAccess": false,
@@ -1548,25 +1548,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#027E2F",
-                    "endValue": 999999999.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "m8ThRKtM6gf",
-                    "name": "Positive",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": -1.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#FF0000",
                     "endValue": -1.0,
                     "externalAccess": false,
@@ -1580,6 +1561,25 @@
                         "users": {}
                     },
                     "startValue": -999999999.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#027E2F",
+                    "endValue": 999999999.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "m8ThRKtM6gf",
+                    "name": "Positive",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": -1.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -1968,8 +1968,8 @@
         "DHIS2Build": "11b58fe",
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_DQ",
-        "description": "Malaria Data Quality (dashboard)",
-        "lastUpdated": "20220610T111718",
+        "description": "",
+        "lastUpdated": "20220614T103817",
         "locale": "en",
         "name": "MAL_AGG_DQ_DSH_DHIS2.36.11.1-en",
         "type": "DSH",
