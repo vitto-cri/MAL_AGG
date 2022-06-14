@@ -6330,7 +6330,7 @@
         "DHIS2Build": "11b58fe",
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_STK",
-        "description": "Malaria Stock (dashboard)",
+        "description": "",
         "lastUpdated": "20220610T102120",
         "locale": "en",
         "name": "MAL_AGG_STK_DSH_DHIS2.36.11.1-en",
