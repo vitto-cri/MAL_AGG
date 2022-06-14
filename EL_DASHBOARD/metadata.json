@@ -453,6 +453,30 @@
                     "id": "tIWGvDkU6lb"
                 },
                 {
+                    "id": "dASLnPMS8L8"
+                },
+                {
+                    "id": "dKbHt6OB5x1"
+                },
+                {
+                    "id": "vK4qNvAtZsG"
+                },
+                {
+                    "id": "rPYLomUceL4"
+                },
+                {
+                    "id": "EEuvMCljxc9"
+                },
+                {
+                    "id": "A1o8U4zmzvA"
+                },
+                {
+                    "id": "JZegZ4SDzDs"
+                },
+                {
+                    "id": "blS3OjRXn0c"
+                },
+                {
                     "id": "hAAyWEh4Xf0"
                 },
                 {
@@ -462,16 +486,7 @@
                     "id": "VoN285Q7FQG"
                 },
                 {
-                    "id": "dASLnPMS8L8"
-                },
-                {
                     "id": "Uzmk0S9IwWn"
-                },
-                {
-                    "id": "dKbHt6OB5x1"
-                },
-                {
-                    "id": "vK4qNvAtZsG"
                 },
                 {
                     "id": "sl7EVPFXps8"
@@ -483,31 +498,16 @@
                     "id": "yC9EwmnP8L0"
                 },
                 {
-                    "id": "rPYLomUceL4"
-                },
-                {
                     "id": "RLxhxT7sO0R"
                 },
                 {
                     "id": "fvSA2BtaTBX"
                 },
                 {
-                    "id": "EEuvMCljxc9"
-                },
-                {
                     "id": "npqu6fhBVpe"
                 },
                 {
                     "id": "bA6kgEyRkg0"
-                },
-                {
-                    "id": "A1o8U4zmzvA"
-                },
-                {
-                    "id": "JZegZ4SDzDs"
-                },
-                {
-                    "id": "blS3OjRXn0c"
                 }
             ],
             "name": "Malaria elimination",
@@ -726,7 +726,7 @@
             "legendSets": [],
             "name": "[CONFIG] MAL - Confirmed malaria cases (micr + RDT)",
             "numerator": -1,
-            "numeratorDescription": "MAL - Microscopy positive malaria cases + MAL - RDT positive malaria cases ",
+            "numeratorDescription": "MAL - Microscopy positive malaria cases + MAL - RDT positive malaria cases",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1555,7 +1555,7 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": " Reporting Completeness (%)",
+            "shortName": "Reporting Completeness (%)",
             "translations": []
         }
     ],
@@ -1565,8 +1565,8 @@
         "DHIS2Build": "11b58fe",
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_EL",
-        "description": "Malaria Elimination (dashboard)",
-        "lastUpdated": "20220610T123335",
+        "description": "",
+        "lastUpdated": "20220614T103605",
         "locale": "en",
         "name": "MAL_AGG_EL_DSH_DHIS2.36.11.1-en",
         "type": "DSH",
