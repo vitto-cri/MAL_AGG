@@ -2249,43 +2249,10 @@
             "dataSetElements": [
                 {
                     "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "kdMT3AuDzj1"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "VkQPxB6VdoG"
-                    },
-                    "dataElement": {
-                        "id": "UwaQ0MJzXBz"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
                         "id": "VkQPxB6VdoG"
                     },
                     "dataElement": {
                         "id": "CxI1FHE4oEh"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "CWHBMa4nC9J"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -2304,10 +2271,43 @@
                 },
                 {
                     "categoryCombo": {
+                        "id": "VkQPxB6VdoG"
+                    },
+                    "dataElement": {
+                        "id": "UwaQ0MJzXBz"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "kdMT3AuDzj1"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
                         "id": "wAHUeGPbH9A"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "CWHBMa4nC9J"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -2376,7 +2376,7 @@
         "DHIS2Build": "11b58fe",
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_MMP",
-        "description": "Malaria Mobile and Migrant Populations ",
+        "description": "",
         "lastUpdated": "20220610T095556",
         "locale": "en",
         "name": "MAL_AGG_MMP_AGG_DHIS2.36.11.1-en",
