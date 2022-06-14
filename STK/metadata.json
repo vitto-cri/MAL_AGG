@@ -6234,7 +6234,7 @@
                 "id": "IvYR8mc6prX"
             },
             "code": "MAL_CASES_TEST_RDT",
-            "description": "Suspected malaria cases who received a RDT test ",
+            "description": "Suspected malaria cases who received a RDT test",
             "domainType": "AGGREGATE",
             "formName": "Tested (RDT)",
             "id": "pmRn0GsUfr6",
@@ -6393,167 +6393,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "zM1vd2VeCss"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "twoxyChxlC3"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mTR90t8ea5x"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "B3ItBcjVieC"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "eCKSKNgHJqe"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kk2ClooVm41"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "KQvuAWwOPnE"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RJkNUMqVTRC"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "C3vtx1aie2U"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Qv9b5QAOO0F"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oIi0Ybn06e2"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "BdRI37FNDJs"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CBKXL15dSwQ"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "x4A99GZbg5k"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "F7BWpIVSEpM"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "DEasiq2eO60"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "pNalmL0t0uk"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "GDBHGyXJI2T"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iaQuylCoH3u"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "THsfR427giB"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ZRUpLZ2HVEH"
+                        "id": "SldWQ0uCFA2"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6569,7 +6409,287 @@
                 },
                 {
                     "dataElement": {
+                        "id": "U4kmpM14xhJ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oIi0Ybn06e2"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kk2ClooVm41"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "To2fZcY5oUS"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RJkNUMqVTRC"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "F7L5jVrWnHi"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "twoxyChxlC3"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ZRUpLZ2HVEH"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "f7z0IhHVWBT"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "B3ItBcjVieC"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "DEasiq2eO60"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uFwkuqBgI29"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YnKOG0WVtlq"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RRA1O37nLn0"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "F7BWpIVSEpM"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "mTR90t8ea5x"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "THsfR427giB"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CBKXL15dSwQ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "BdRI37FNDJs"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GDBHGyXJI2T"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KQvuAWwOPnE"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "x4A99GZbg5k"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ZnifKT2U88N"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "o3fW3Hgo9GO"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "HOEMlLX5SMC"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iaQuylCoH3u"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "xysDfJ6oPMh"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "eCKSKNgHJqe"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "zM1vd2VeCss"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "C3vtx1aie2U"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jynElcE3gF0"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "OpiuZiAzEwQ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VTunnWZqQCj"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "NFMzN9Up5zQ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "pNalmL0t0uk"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "N6uAJQjkRQl"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6593,14 +6713,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "N6uAJQjkRQl"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "CsJm4IsvXqg"
                     },
                     "dataSet": {
@@ -6609,119 +6721,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "F7L5jVrWnHi"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uFwkuqBgI29"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "xysDfJ6oPMh"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "YnKOG0WVtlq"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "SldWQ0uCFA2"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "U4kmpM14xhJ"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ZnifKT2U88N"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "NFMzN9Up5zQ"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "OpiuZiAzEwQ"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RRA1O37nLn0"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VTunnWZqQCj"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "HOEMlLX5SMC"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jynElcE3gF0"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "o3fW3Hgo9GO"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "To2fZcY5oUS"
+                        "id": "Qv9b5QAOO0F"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -12066,7 +12066,7 @@
         "DHIS2Build": "11b58fe",
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_STK",
-        "description": "Malaria Stock ",
+        "description": "",
         "lastUpdated": "20220610T102120",
         "locale": "en",
         "name": "MAL_AGG_STK_AGG_DHIS2.36.11.1-en",
