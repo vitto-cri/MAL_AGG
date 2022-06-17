@@ -1157,9 +1157,6 @@
                     "y": 217
                 }
             ],
-            "favorites": [
-                "ZrHV9kKJAni"
-            ],
             "id": "rGl6NA03QF9",
             "name": "MAL - 9.Malaria stock",
             "restrictFilters": false,
@@ -3969,7 +3966,6 @@
     "maps": [
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "Oj0tAh55DjD",
             "mapViews": [
                 {
@@ -4168,7 +4164,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "Hl08cF6zvw1",
             "mapViews": [
                 {
@@ -4362,7 +4357,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "KF5vZLVpYJv",
             "mapViews": [
                 {
@@ -4561,7 +4555,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "uwxMr52SxjE",
             "mapViews": [
                 {
@@ -4755,7 +4748,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "A6jfttWWf26",
             "mapViews": [
                 {
@@ -4954,7 +4946,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "hiqBHfHKDsf",
             "mapViews": [
                 {
@@ -5148,7 +5139,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "oUX9xgrBW5w",
             "mapViews": [
                 {
@@ -5347,7 +5337,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "xp7wFqgHXfa",
             "mapViews": [
                 {
@@ -5541,7 +5530,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "Iwk0AIqANFI",
             "mapViews": [
                 {
@@ -5740,7 +5728,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "ftdO69wPX7n",
             "mapViews": [
                 {
@@ -5934,7 +5921,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "L2DpofVDPFY",
             "mapViews": [
                 {
@@ -6133,7 +6119,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "upKEZrMval4",
             "mapViews": [
                 {
@@ -6331,7 +6316,7 @@
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_STK",
         "description": "",
-        "lastUpdated": "20220610T102120",
+        "lastUpdated": "20220615T151215",
         "locale": "en",
         "name": "MAL_AGG_STK_DSH_DHIS2.36.11.1-en",
         "type": "DSH",
@@ -6423,7 +6408,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -6588,7 +6572,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -6714,7 +6697,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -6879,7 +6861,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7011,7 +6992,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7137,7 +7117,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7302,7 +7281,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7428,7 +7406,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7593,7 +7570,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7719,7 +7695,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7844,7 +7819,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7969,7 +7943,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8094,7 +8067,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8219,7 +8191,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8344,7 +8315,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8469,7 +8439,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8628,7 +8597,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8760,7 +8728,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8886,7 +8853,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -9051,7 +9017,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
