@@ -10,17 +10,14 @@
                     "id": "V9t81g7Wspa"
                 },
                 {
-                    "id": "SqvDE9fTeGl"
-                },
-                {
-                    "id": "YXE2HxNf3YB"
+                    "id": "HkomAEMQt5e"
                 }
             ],
             "dataDimension": true,
             "dataDimensionType": "DISAGGREGATION",
             "description": "Age categorisation in years.",
             "id": "AzDcxg4bW1N",
-            "name": "Age in years (0-4, 5-14, 15+, unknown)",
+            "name": "Age in years (0-4, 5-14, 15+)",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -312,175 +309,151 @@
         {
             "attributeValues": [],
             "dataDimensionType": "DISAGGREGATION",
-            "id": "SqvDE9fTeGl",
-            "name": "15+ years",
+            "id": "HkomAEMQt5e",
+            "name": "15+ years (single age)",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    }
-                },
+                "userGroups": {},
                 "users": {}
             },
-            "shortName": "15+ years",
+            "shortName": "15+ years (single age)",
             "translations": [
                 {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "15+ سنة"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "15+ år"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "15+ años"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "15+ ans"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "15+ سنة"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "15+ ёш"
-                },
-                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "15+ ans"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "15+ ёш"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "15+ лет"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "15+ años"
+                    "value": "15 ans et plus (spécifique)"
                 },
                 {
                     "locale": "ar_SD",
                     "property": "SHORT_NAME",
-                    "value": "15+ سنة"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "15+ ёш"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "15+ años"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "15+ años"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "15+ anos"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "15+ سنة"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "15+ Tahun"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "15+ let"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "15+ سنة"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "15+ лет"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "15+ anos"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "15+ سنة"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "15+ ёш"
+                    "value": "15+ سنة (محدد)"
                 },
                 {
                     "locale": "nb",
                     "property": "NAME",
-                    "value": "15+ år"
+                    "value": "15+ år (spesifikk alder)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "15+ anos (idade específica)"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "15+ años (específica)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة (محدد)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "15+ سنة (عمر محدد)"
                 },
                 {
                     "locale": "pt",
                     "property": "SHORT_NAME",
-                    "value": "15+ anos"
+                    "value": "15+ anos (específica)"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "15+ سنة"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "15+ Tahun"
-                },
-                {
-                    "locale": "ar",
+                    "locale": "es",
                     "property": "NAME",
-                    "value": "15+ سنة"
+                    "value": "15+ años (edad específica)"
                 },
                 {
                     "locale": "cs",
                     "property": "SHORT_NAME",
-                    "value": "15+ let"
+                    "value": "15+ let (konkrétní)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "15+ سنة (عمر محدد)"
                 },
                 {
                     "locale": "pt_BR",
                     "property": "SHORT_NAME",
-                    "value": "15+ anos"
+                    "value": "15+ anos (específica)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "15+ سنة (عمر محدد)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ёш (аниқ)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة (محدد)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة (محدد)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "15+ лет (точный возраст)"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "15+ år (spesifikk)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ёш (аниқ)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "15+ ёш (аниқ ёш)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "15+ سنة (عمر محدد)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "15 ans et plus (âge spécifique)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "15+ años (específica)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "15+ anos (idade específica)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "15+ let (konkrétní věk)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "15+ ёш (аниқ ёш)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "15+ años (edad específica)"
                 }
             ]
         },
@@ -647,173 +620,6 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "5-14"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "code": "UNK_AGE",
-            "dataDimensionType": "DISAGGREGATION",
-            "id": "YXE2HxNf3YB",
-            "name": "Unknown age",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Unknown age",
-            "translations": [
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "Edad desconocida"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Neznámý věk"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Ноаниқ ёш"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Idade desconhecida"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Idade desconhecida"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Ноаниқ ёш"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "Edad desconocida"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "Alder ukjent"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "Возраст неизвестен"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Umur tidak diketahui"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "Edad desconocida"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Âge inconnu"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Idade desconhecida"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "Neznámý věk"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Umur tidak diketahui"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Ноаниқ ёш"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Idade desconhecida"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Возраст неизвестен"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "Alder ukjent"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "Ноаниқ ёш"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Âge inconnu"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "العمر مجهول"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "Edad desconocida"
                 }
             ]
         }
@@ -1139,9 +945,6 @@
                     "y": 44
                 }
             ],
-            "favorites": [
-                "RyTbQ06zSK0"
-            ],
             "id": "sLldHZZgnFx",
             "name": "MAL - 1.Malaria Burden Reduction",
             "restrictFilters": false,
@@ -1383,7 +1186,6 @@
                     "y": 0
                 }
             ],
-            "favorites": [],
             "id": "bV38aZAIzgx",
             "name": "MAL - 2.Testing and diagnosis",
             "restrictFilters": false,
@@ -1617,9 +1419,6 @@
                     "y": 29
                 }
             ],
-            "favorites": [
-                "RyTbQ06zSK0"
-            ],
             "id": "VUUrmGS7x42",
             "name": "MAL - 3.Malaria Maps",
             "restrictFilters": false,
@@ -1812,7 +1611,6 @@
                     "y": 0
                 }
             ],
-            "favorites": [],
             "id": "SZYStm1CCiB",
             "name": "MAL - 4.Treatment",
             "restrictFilters": false,
@@ -1936,9 +1734,6 @@
                     "x": 20,
                     "y": 0
                 }
-            ],
-            "favorites": [
-                "RyTbQ06zSK0"
             ],
             "id": "Ly3jbrmhRpB",
             "name": "MAL - 5.Intervention coverage",
@@ -2196,9 +1991,6 @@
                     "y": 56
                 }
             ],
-            "favorites": [
-                "RyTbQ06zSK0"
-            ],
             "id": "GEq9y3pVbrb",
             "name": "MAL - 6.Malaria quality control",
             "restrictFilters": false,
@@ -2285,6 +2077,9 @@
                     "id": "tXPMCbZcgOp"
                 },
                 {
+                    "id": "blS3OjRXn0c"
+                },
+                {
                     "id": "thCBQHzwKJA"
                 },
                 {
@@ -2304,6 +2099,9 @@
                 },
                 {
                     "id": "TYMTT2IoFFd"
+                },
+                {
+                    "id": "VoN285Q7FQG"
                 },
                 {
                     "id": "FdfpxYmcsC3"
@@ -2352,6 +2150,9 @@
                 },
                 {
                     "id": "MYEawedM1Sl"
+                },
+                {
+                    "id": "vK4qNvAtZsG"
                 },
                 {
                     "id": "n8PQYNIkwBZ"
@@ -3179,6 +2980,42 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Cas de paludisme confirmés pour 1000"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_PER_INFANTS_REC_ITN",
+            "denominator": -1,
+            "denominatorDescription": "GEN - Population expected pregnant women",
+            "description": "Percentage of infants received an ITN",
+            "id": "vK4qNvAtZsG",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - Infants received an ITN (%)",
+            "numerator": -1,
+            "numeratorDescription": "LLINs distributed to infants",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Infants received an ITN (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "PALU - % d'enfants ayant un MILDA"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "% d'enfants ayant un MILDA"
                 }
             ]
         },
@@ -4229,6 +4066,31 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "MAL_PER_PW_ATTEND_ANC1",
+            "denominator": -1,
+            "denominatorDescription": "GEN - Population expected pregnant women",
+            "description": "Percentage of pregnant women attending ANC 1st visit",
+            "id": "blS3OjRXn0c",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - Pregnant women attending ANC1(%)",
+            "numerator": -1,
+            "numeratorDescription": "MAL - ANC 1st visit (malaria)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Pregnant women attending ANC1 (%))",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "MAL_ANC1_RECEIVING_IPTP1",
             "denominator": -1,
             "denominatorDescription": "ANC 1st visit (malaria)",
@@ -4249,6 +4111,31 @@
                 "users": {}
             },
             "shortName": "Women attending ANC1 and receiving IPTp1 (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_PER_PW_REC_ITN",
+            "denominator": -1,
+            "denominatorDescription": "GEN - Population expected pregnant women",
+            "description": "Percentage of pregnant women received an ITN",
+            "id": "VoN285Q7FQG",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - Pregnant women received an ITN (%)",
+            "numerator": -1,
+            "numeratorDescription": "LLINs distributed to pregnant women",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Pregnant women received an ITN (%)",
             "translations": []
         },
         {
@@ -5045,92 +4932,6 @@
                     "value": "Cas de paludisme (presumé et confirmés )"
                 }
             ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_PER_INFANTS_REC_ITN",
-            "denominator": -1,
-            "denominatorDescription": "GEN - Population expected pregnant women",
-            "description": "Percentage of infants received an ITN",
-            "id": "vK4qNvAtZsG",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - Infants received an ITN (%)",
-            "numerator": -1,
-            "numeratorDescription": "LLINs distributed to infants",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Infants received an ITN (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "PALU - % d'enfants ayant un MILDA"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "% d'enfants ayant un MILDA"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_PER_PW_ATTEND_ANC1",
-            "denominator": -1,
-            "denominatorDescription": "GEN - Population expected pregnant women",
-            "description": "Percentage of pregnant women attending ANC 1st visit",
-            "id": "blS3OjRXn0c",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - Pregnant women attending ANC1(%)",
-            "numerator": -1,
-            "numeratorDescription": "MAL - ANC 1st visit (malaria)",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Pregnant women attending ANC1 (%))",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "MAL_PER_PW_REC_ITN",
-            "denominator": -1,
-            "denominatorDescription": "GEN - Population expected pregnant women",
-            "description": "Percentage of pregnant women received an ITN",
-            "id": "VoN285Q7FQG",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] MAL - Pregnant women received an ITN (%)",
-            "numerator": -1,
-            "numeratorDescription": "LLINs distributed to pregnant women",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Pregnant women received an ITN (%)",
-            "translations": []
         }
     ],
     "legendSets": [
@@ -5533,7 +5334,6 @@
     "maps": [
         {
             "basemap": "osmLight",
-            "favorites": [],
             "id": "eTbGFu0p0lk",
             "mapViews": [
                 {
@@ -5661,7 +5461,6 @@
         {
             "basemap": "osmLight",
             "description": "",
-            "favorites": [],
             "id": "uNj85CCHumE",
             "mapViews": [
                 {
@@ -5791,7 +5590,6 @@
         },
         {
             "basemap": "osmLight",
-            "favorites": [],
             "id": "K4g2izy0wrV",
             "mapViews": [
                 {
@@ -5920,7 +5718,6 @@
         },
         {
             "basemap": "osmLight",
-            "favorites": [],
             "id": "z9w8e16NXrw",
             "mapViews": [
                 {
@@ -6048,7 +5845,6 @@
         {
             "basemap": "osmLight",
             "description": "",
-            "favorites": [],
             "id": "ZEBh5DFbW73",
             "mapViews": [
                 {
@@ -6180,7 +5976,6 @@
         {
             "basemap": "osmLight",
             "description": "",
-            "favorites": [],
             "id": "R2aoozdWrnW",
             "mapViews": [
                 {
@@ -6310,7 +6105,6 @@
         },
         {
             "basemap": "osmLight",
-            "favorites": [],
             "id": "XFGdbwY5OA9",
             "mapViews": [
                 {
@@ -6446,7 +6240,7 @@
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_BR",
         "description": "",
-        "lastUpdated": "20220614T103733",
+        "lastUpdated": "20220617T123723",
         "locale": "en",
         "name": "MAL_AGG_BR_DSH_DHIS2.36.11.1-en",
         "type": "DSH",
@@ -6627,7 +6421,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -6752,6 +6545,7 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [
                 {
@@ -6766,16 +6560,14 @@
                             "id": "V9t81g7Wspa"
                         },
                         {
-                            "id": "SqvDE9fTeGl"
-                        },
-                        {
-                            "id": "YXE2HxNf3YB"
+                            "id": "HkomAEMQt5e"
                         }
                     ]
                 }
             ],
             "colSubTotals": false,
             "colTotals": false,
+            "colorSet": "DEFAULT",
             "columnDimensions": [
                 "AzDcxg4bW1N"
             ],
@@ -6797,6 +6589,7 @@
                 "dx"
             ],
             "fontSize": "NORMAL",
+            "fontStyle": {},
             "hideEmptyColumns": false,
             "hideEmptyRowItems": "ALL",
             "hideEmptyRows": false,
@@ -6808,8 +6601,11 @@
             "legend": {
                 "hidden": false
             },
+            "legendDisplayStrategy": "FIXED",
+            "legendDisplayStyle": "FILL",
             "name": "MAL - Deaths",
             "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
             "optionalAxes": [],
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
@@ -6874,6 +6670,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -6895,6 +6692,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribers": [],
             "title": "Malaria deaths by Age",
             "topLimit": 0,
             "translations": [
@@ -6940,7 +6738,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7029,6 +6826,7 @@
             "series": [],
             "sharing": {
                 "external": false,
+                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {
                     "WyU2lGUPLBv": {
@@ -7091,10 +6889,9 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "Countries should choose either the mean+2SD OR MEDIAN (threhhold) (MAL - Malaria confirmed MEDIAN (threshold)  ), but not both. To put this in guidance (better in elimination settings).",
+            "description": "Countries should choose either the mean+2SD OR MEDIAN (threshold) (MAL - Malaria confirmed MEDIAN (threshold)), but not both. To put this in guidance (better in elimination settings).",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7183,6 +6980,7 @@
             "series": [],
             "sharing": {
                 "external": false,
+                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {
                     "WyU2lGUPLBv": {
@@ -7248,7 +7046,6 @@
             "description": "P. vivax cases tested for G6PD deficiency with RDT before treatment with primaquine - optional",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7396,7 +7193,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7559,10 +7355,9 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": " ",
+            "description": "",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7712,7 +7507,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -7865,7 +7659,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8018,7 +7811,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8177,7 +7969,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8322,10 +8113,9 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "Only for countries where there are a significant number of presumed cases.  To put this in the guidance.",
+            "description": "Only for countries where there are a significant number of presumed cases. To put this in the guidance.",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8474,7 +8264,6 @@
             "description": "P. vivax cases tested for G6PD deficiency with RDT before treatment with primaquine - optional",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8767,7 +8556,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8919,10 +8707,9 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "MAL- Confirmed malaria cases (reported) - This could be used instead of confirmed malaria cases (micr + RDT). ",
+            "description": "MAL- Confirmed malaria cases (reported) - This could be used instead of confirmed malaria cases (micr + RDT).",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -8941,7 +8728,7 @@
             },
             "legendDisplayStrategy": "FIXED",
             "legendDisplayStyle": "FILL",
-            "name": "MAL - Reported malaria cases ",
+            "name": "MAL - Reported malaria cases",
             "noSpaceBetweenColumns": false,
             "numberType": "VALUE",
             "optionalAxes": [],
@@ -9078,10 +8865,9 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "MAL- Confirmed malaria cases (reported) - This could be used instead of confirmed malaria cases (micr + RDT). ",
+            "description": "MAL- Confirmed malaria cases (reported) - This could be used instead of confirmed malaria cases (micr + RDT).",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -9281,7 +9067,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -9443,7 +9228,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -9796,10 +9580,9 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": " ",
+            "description": "",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -9981,10 +9764,9 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": " ",
+            "description": "",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -10130,10 +9912,9 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "Only for countries where there are a significant number of presumed cases.  To put this in the guidance.",
+            "description": "Only for countries where there are a significant number of presumed cases. To put this in the guidance.",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -10282,7 +10063,6 @@
             "description": "Proportion of P. vivax cases with treated with ACT - optional",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -10431,7 +10211,6 @@
             "description": "P. vivax cases tested for G6PD deficiency with RDT before treatment with primaquine - optional",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -10585,7 +10364,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
