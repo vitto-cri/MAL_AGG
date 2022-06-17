@@ -1173,6 +1173,139 @@
             "attributeValues": [],
             "categoryOptionGroups": [
                 {
+                    "id": "yuathFHLjNe"
+                },
+                {
+                    "id": "V9t81g7Wspa"
+                },
+                {
+                    "id": "HkomAEMQt5e"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "description": "Age categorisation in years.",
+            "id": "AzDcxg4bW1N",
+            "name": "Age in years (0-4, 5-14, 15+)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Edad en años (0-4, 5-14, 15+, desconocido)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Idade em anos (0-4, 5-14, 15+, desconhecido)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "DESCRIPTION",
+                    "value": "Ёш бўйича категориялар, йилларда."
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "DESCRIPTION",
+                    "value": "Ёш бўйича категориялар, йилларда."
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Edad en años (0-4, 5-14, 15+, desconocido)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Categorización de edad en años"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Věk v letech (0-4, 5-14, 15+, neznámé)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade em anos."
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Věková kategorizace v letech."
+                },
+                {
+                    "locale": "nb",
+                    "property": "DESCRIPTION",
+                    "value": "Alderkategorisering i år"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade em anos."
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Catégorisation âge en année"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Age (paludisme avec inconnu)"
+                },
+                {
+                    "locale": "id",
+                    "property": "DESCRIPTION",
+                    "value": "Kategorisasi usia dalam tahun"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Idade em anos (0-4, 5-14, 15+, desconhecido)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Alder i år (0-4, 5-14, 15+, ukjent)"
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Categorización de edad en años"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
                     "id": "bqoVhX2RfG4"
                 },
                 {
@@ -1425,6 +1558,180 @@
             "attributeValues": [],
             "categoryOptions": [
                 {
+                    "id": "pa0cY66MrG6"
+                },
+                {
+                    "id": "UPvKbcqTEY3"
+                }
+            ],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "f5VxIY91Jz3",
+            "name": "0-14 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "0-14 years",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 Anos "
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 tahun"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "0-14 år"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 años"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 ans"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 ёш"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "0-14 ёш"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "0-14 Anos "
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 let"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 ёш"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "0-14 años"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 лет"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 år"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 años"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "0-14 Anos "
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "0-14 let"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "0-14 tahun"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "0-14 ans"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "0-14 años"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "0-14 лет"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 Anos "
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "0-14 ёш"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
                     "id": "UPvKbcqTEY3"
                 }
             ],
@@ -1596,8 +1903,8 @@
                 }
             ],
             "dataDimensionType": "DISAGGREGATION",
-            "id": "HkomAEMQt5e",
-            "name": "15+ years (specific age)",
+            "id": "SqvDE9fTeGl",
+            "name": "15+ years (Multiple)",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1605,7 +1912,178 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "15+ years (specific)",
+            "shortName": "15+ years (Multiple)",
+            "translations": [
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "15+ år"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "15+ años"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "15+ ans"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "15+ ёш"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ans"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "15+ ёш"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "15+ лет"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "15+ años"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ёш"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "15+ años"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "15+ años"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "15+ anos"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "15+ Tahun"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "15+ let"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "15+ лет"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "15+ anos"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ёш"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "15+ år"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "15+ anos"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "15+ Tahun"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "15+ let"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "15+ anos"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "wTpH7wugXzZ"
+                }
+            ],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "HkomAEMQt5e",
+            "name": "15+ years (single age)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "15+ years (single age)",
             "translations": [
                 {
                     "locale": "fr",
@@ -2086,6 +2564,38 @@
                     "value": "إناث"
                 }
             ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "pa0cY66MrG6"
+                },
+                {
+                    "id": "MP15bHaQh2x"
+                },
+                {
+                    "id": "UPvKbcqTEY3"
+                },
+                {
+                    "id": "wTpH7wugXzZ"
+                },
+                {
+                    "id": "FFA9e1yIXCT"
+                }
+            ],
+            "code": "GNAG00",
+            "id": "O2MSX2uAySC",
+            "name": "GEN - Category Options",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Category Options",
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -4411,9 +4921,6 @@
                     "y": 217
                 }
             ],
-            "favorites": [
-                "ZrHV9kKJAni"
-            ],
             "id": "rGl6NA03QF9",
             "name": "MAL - 9.Malaria stock",
             "restrictFilters": false,
@@ -4433,10 +4940,10 @@
             "code": "MAL_AGG_STK",
             "dataElements": [
                 {
-                    "id": "eCKSKNgHJqe"
+                    "id": "ZRUpLZ2HVEH"
                 },
                 {
-                    "id": "ZRUpLZ2HVEH"
+                    "id": "eCKSKNgHJqe"
                 },
                 {
                     "id": "jynElcE3gF0"
@@ -4472,25 +4979,37 @@
                     "id": "l7gcisIvTBN"
                 },
                 {
-                    "id": "Rd02CjRNYDD"
-                },
-                {
-                    "id": "ruRmurEI4yM"
-                },
-                {
                     "id": "ZnifKT2U88N"
                 },
                 {
                     "id": "f7z0IhHVWBT"
                 },
                 {
+                    "id": "ruRmurEI4yM"
+                },
+                {
+                    "id": "Rd02CjRNYDD"
+                },
+                {
                     "id": "HOEMlLX5SMC"
+                },
+                {
+                    "id": "yMIgzlV9sES"
                 },
                 {
                     "id": "CBKXL15dSwQ"
                 },
                 {
+                    "id": "pmRn0GsUfr6"
+                },
+                {
                     "id": "BdRI37FNDJs"
+                },
+                {
+                    "id": "Ae0TUkWm1wo"
+                },
+                {
+                    "id": "ENIbHvgpaQR"
                 },
                 {
                     "id": "CsJm4IsvXqg"
@@ -4520,10 +5039,13 @@
                     "id": "CPBuuIiDnn8"
                 },
                 {
+                    "id": "Pw7sgDi5Pge"
+                },
+                {
                     "id": "YnKOG0WVtlq"
                 },
                 {
-                    "id": "Pw7sgDi5Pge"
+                    "id": "Md3xk3vlABx"
                 },
                 {
                     "id": "Qv9b5QAOO0F"
@@ -4593,6 +5115,9 @@
                 },
                 {
                     "id": "NFMzN9Up5zQ"
+                },
+                {
+                    "id": "YG5uCKZRilL"
                 },
                 {
                     "id": "RRA1O37nLn0"
@@ -5065,6 +5590,32 @@
             "shortName": "Artesunate stock out days",
             "translations": [],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": true
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "MAL_CONFIRMED_TREATED_ACT",
+            "description": "Number of confirmed cases treated with a course of ACT",
+            "domainType": "AGGREGATE",
+            "formName": "Confirmed cases treated with ACT",
+            "id": "YG5uCKZRilL",
+            "legendSets": [],
+            "name": "MAL - Confirmed cases treated with ACT",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Confirmed cases treated with ACT",
+            "translations": [],
+            "valueType": "NUMBER",
             "zeroIsSignificant": true
         },
         {
@@ -5612,6 +6163,64 @@
             "aggregationType": "SUM",
             "attributeValues": [],
             "categoryCombo": {
+                "id": "IvYR8mc6prX"
+            },
+            "code": "MAL_CASES_TEST_RDT",
+            "description": "Suspected malaria cases who received a RDT test",
+            "domainType": "AGGREGATE",
+            "formName": "Tested (RDT)",
+            "id": "pmRn0GsUfr6",
+            "legendSets": [],
+            "name": "MAL - Malaria suspects tested (RDT)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Tested (RDT)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Cas de paludisme testés par TDR"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": true
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "MAL_PRESUMED_TREATED_ACT",
+            "description": "Number of presumed malaria cases treated nonetheless with a course of ACT",
+            "domainType": "AGGREGATE",
+            "formName": "Presumed cases treated with ACT",
+            "id": "Ae0TUkWm1wo",
+            "legendSets": [],
+            "name": "MAL - Presumed cases treated with ACT",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Presumed cases treated with ACT",
+            "translations": [],
+            "valueType": "NUMBER",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
                 "id": "bjDvmb4bfuf"
             },
             "code": "MAL_PRIMAQUINE_DISCARDED",
@@ -6025,6 +6634,99 @@
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
             },
+            "code": "MAL_STOCKOUT_ACT_ADULT",
+            "domainType": "AGGREGATE",
+            "formName": "ACT - Adult - Pack",
+            "id": "ENIbHvgpaQR",
+            "legendSets": [],
+            "name": "MAL - Stock-out of ACT - Adult - Pack",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Stock-out of ACT - Adult - Pack",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Rupture de stock de CTA - Adult"
+                }
+            ],
+            "valueType": "BOOLEAN",
+            "zeroIsSignificant": true
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "MAL_STOCKOUT_LLIN",
+            "domainType": "AGGREGATE",
+            "formName": "LLIN malaria",
+            "id": "yMIgzlV9sES",
+            "legendSets": [],
+            "name": "MAL - Stock-out of LLIN malaria",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Stock-out of LLIN malaria",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Rupture de stock de MILD"
+                }
+            ],
+            "valueType": "BOOLEAN",
+            "zeroIsSignificant": true
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "MAL_STOCKOUT_RDT",
+            "domainType": "AGGREGATE",
+            "formName": "RDT malaria kits",
+            "id": "Md3xk3vlABx",
+            "legendSets": [],
+            "name": "MAL - Stock-out of RDT malaria kits",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Stock-out of RDT malaria kits",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Rupture de stock de TDR"
+                }
+            ],
+            "valueType": "BOOLEAN",
+            "zeroIsSignificant": true
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
             "code": "MAL_SP_DISCARDED",
             "description": "Number of Sulfadoxine-pyrimethamine discarded during the reporting period (expired, damaged, etc.)",
             "domainType": "AGGREGATE",
@@ -6199,183 +6901,6 @@
             "translations": [],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "MAL_CONFIRMED_TREATED_ACT",
-            "description": "Number of confirmed cases treated with a course of ACT",
-            "domainType": "AGGREGATE",
-            "formName": "Confirmed cases treated with ACT",
-            "id": "YG5uCKZRilL",
-            "legendSets": [],
-            "name": "MAL - Confirmed cases treated with ACT",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Confirmed cases treated with ACT",
-            "translations": [],
-            "valueType": "NUMBER",
-            "zeroIsSignificant": true
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "IvYR8mc6prX"
-            },
-            "code": "MAL_CASES_TEST_RDT",
-            "description": "Suspected malaria cases who received a RDT test",
-            "domainType": "AGGREGATE",
-            "formName": "Tested (RDT)",
-            "id": "pmRn0GsUfr6",
-            "legendSets": [],
-            "name": "MAL - Malaria suspects tested (RDT)",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Tested (RDT)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Cas de paludisme testés par TDR"
-                }
-            ],
-            "valueType": "INTEGER_ZERO_OR_POSITIVE",
-            "zeroIsSignificant": true
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "MAL_PRESUMED_TREATED_ACT",
-            "description": "Number of presumed malaria cases treated nonetheless with a course of ACT",
-            "domainType": "AGGREGATE",
-            "formName": "Presumed cases treated with ACT",
-            "id": "Ae0TUkWm1wo",
-            "legendSets": [],
-            "name": "MAL - Presumed cases treated with ACT",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Presumed cases treated with ACT",
-            "translations": [],
-            "valueType": "NUMBER",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "MAL_STOCKOUT_ACT_ADULT",
-            "domainType": "AGGREGATE",
-            "formName": "ACT - Adult - Pack",
-            "id": "ENIbHvgpaQR",
-            "legendSets": [],
-            "name": "MAL - Stock-out of ACT - Adult - Pack",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Stock-out of ACT - Adult - Pack",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Rupture de stock de CTA - Adult"
-                }
-            ],
-            "valueType": "BOOLEAN",
-            "zeroIsSignificant": true
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "MAL_STOCKOUT_LLIN",
-            "domainType": "AGGREGATE",
-            "formName": "LLIN malaria",
-            "id": "yMIgzlV9sES",
-            "legendSets": [],
-            "name": "MAL - Stock-out of LLIN malaria",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Stock-out of LLIN malaria",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Rupture de stock de MILD"
-                }
-            ],
-            "valueType": "BOOLEAN",
-            "zeroIsSignificant": true
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "MAL_STOCKOUT_RDT",
-            "domainType": "AGGREGATE",
-            "formName": "RDT malaria kits",
-            "id": "Md3xk3vlABx",
-            "legendSets": [],
-            "name": "MAL - Stock-out of RDT malaria kits",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Stock-out of RDT malaria kits",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Rupture de stock de TDR"
-                }
-            ],
-            "valueType": "BOOLEAN",
-            "zeroIsSignificant": true
         }
     ],
     "dataEntryForms": [],
@@ -6393,7 +6918,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "SldWQ0uCFA2"
+                        "id": "ZnifKT2U88N"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6401,55 +6926,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "GIhoITcc0jp"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "U4kmpM14xhJ"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oIi0Ybn06e2"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kk2ClooVm41"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "To2fZcY5oUS"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RJkNUMqVTRC"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "F7L5jVrWnHi"
+                        "id": "ImjPjbE2rFm"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6465,87 +6942,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ZRUpLZ2HVEH"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "f7z0IhHVWBT"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "B3ItBcjVieC"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "DEasiq2eO60"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uFwkuqBgI29"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "YnKOG0WVtlq"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RRA1O37nLn0"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "F7BWpIVSEpM"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mTR90t8ea5x"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "THsfR427giB"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CBKXL15dSwQ"
+                        "id": "x4A99GZbg5k"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6561,7 +6958,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "GDBHGyXJI2T"
+                        "id": "NFMzN9Up5zQ"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6569,39 +6966,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "KQvuAWwOPnE"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "x4A99GZbg5k"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ZnifKT2U88N"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "o3fW3Hgo9GO"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "HOEMlLX5SMC"
+                        "id": "uFwkuqBgI29"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6617,63 +6982,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "xysDfJ6oPMh"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "eCKSKNgHJqe"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "zM1vd2VeCss"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "C3vtx1aie2U"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "jynElcE3gF0"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "OpiuZiAzEwQ"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "VTunnWZqQCj"
-                    },
-                    "dataSet": {
-                        "id": "PRiItBuYx0e"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "NFMzN9Up5zQ"
+                        "id": "HOEMlLX5SMC"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6697,7 +7006,159 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ImjPjbE2rFm"
+                        "id": "SldWQ0uCFA2"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "o3fW3Hgo9GO"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GIhoITcc0jp"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "U4kmpM14xhJ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "F7L5jVrWnHi"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "f7z0IhHVWBT"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "OpiuZiAzEwQ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "xysDfJ6oPMh"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "mTR90t8ea5x"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RRA1O37nLn0"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "B3ItBcjVieC"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "jynElcE3gF0"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "C3vtx1aie2U"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kk2ClooVm41"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "YnKOG0WVtlq"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "eCKSKNgHJqe"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GDBHGyXJI2T"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Qv9b5QAOO0F"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CBKXL15dSwQ"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "DEasiq2eO60"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -6713,6 +7174,14 @@
                 },
                 {
                     "dataElement": {
+                        "id": "To2fZcY5oUS"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "CsJm4IsvXqg"
                     },
                     "dataSet": {
@@ -6721,7 +7190,63 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Qv9b5QAOO0F"
+                        "id": "F7BWpIVSEpM"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RJkNUMqVTRC"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "THsfR427giB"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ZRUpLZ2HVEH"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oIi0Ybn06e2"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "KQvuAWwOPnE"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "zM1vd2VeCss"
+                    },
+                    "dataSet": {
+                        "id": "PRiItBuYx0e"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "VTunnWZqQCj"
                     },
                     "dataSet": {
                         "id": "PRiItBuYx0e"
@@ -9560,7 +10085,6 @@
     "maps": [
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "Oj0tAh55DjD",
             "mapViews": [
                 {
@@ -9759,7 +10283,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "Hl08cF6zvw1",
             "mapViews": [
                 {
@@ -9953,7 +10476,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "KF5vZLVpYJv",
             "mapViews": [
                 {
@@ -10152,7 +10674,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "uwxMr52SxjE",
             "mapViews": [
                 {
@@ -10346,7 +10867,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "A6jfttWWf26",
             "mapViews": [
                 {
@@ -10545,7 +11065,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "hiqBHfHKDsf",
             "mapViews": [
                 {
@@ -10739,7 +11258,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "oUX9xgrBW5w",
             "mapViews": [
                 {
@@ -10938,7 +11456,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "xp7wFqgHXfa",
             "mapViews": [
                 {
@@ -11132,7 +11649,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "Iwk0AIqANFI",
             "mapViews": [
                 {
@@ -11331,7 +11847,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "ftdO69wPX7n",
             "mapViews": [
                 {
@@ -11525,7 +12040,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "L2DpofVDPFY",
             "mapViews": [
                 {
@@ -11724,7 +12238,6 @@
         },
         {
             "basemap": "bingLight",
-            "favorites": [],
             "id": "upKEZrMval4",
             "mapViews": [
                 {
@@ -12067,7 +12580,7 @@
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_STK",
         "description": "",
-        "lastUpdated": "20220610T102120",
+        "lastUpdated": "20220617T142359",
         "locale": "en",
         "name": "MAL_AGG_STK_AGG_DHIS2.36.11.1-en",
         "type": "AGG",
@@ -14316,7 +14829,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -14481,7 +14993,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -14607,7 +15118,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -14772,7 +15282,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -14904,7 +15413,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -15030,7 +15538,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -15195,7 +15702,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -15321,7 +15827,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -15486,7 +15991,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -15612,7 +16116,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -15737,7 +16240,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -15862,7 +16364,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -15987,7 +16488,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -16112,7 +16612,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -16237,7 +16736,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -16362,7 +16860,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -16521,7 +17018,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -16653,7 +17149,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -16779,7 +17274,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -16944,7 +17438,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
