@@ -1266,6 +1266,29 @@
             "attributeValues": [],
             "categoryOptions": [
                 {
+                    "id": "FFA9e1yIXCT"
+                },
+                {
+                    "id": "MP15bHaQh2x"
+                }
+            ],
+            "code": "GNAG00",
+            "id": "O2MSX2uAySC",
+            "name": "GEN - Category Options",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Category Options",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
                     "id": "MP15bHaQh2x"
                 }
             ],
@@ -2263,7 +2286,18 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "S3AqkeU4DET"
+                        "id": "wAHUeGPbH9A"
+                    },
+                    "dataSet": {
+                        "id": "e8BAh6eGcNE"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "CWHBMa4nC9J"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -2296,18 +2330,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "wAHUeGPbH9A"
-                    },
-                    "dataSet": {
-                        "id": "e8BAh6eGcNE"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "CWHBMa4nC9J"
+                        "id": "S3AqkeU4DET"
                     },
                     "dataSet": {
                         "id": "e8BAh6eGcNE"
@@ -2377,7 +2400,7 @@
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_MMP",
         "description": "",
-        "lastUpdated": "20220610T095556",
+        "lastUpdated": "20220615T151215",
         "locale": "en",
         "name": "MAL_AGG_MMP_AGG_DHIS2.36.11.1-en",
         "type": "AGG",
