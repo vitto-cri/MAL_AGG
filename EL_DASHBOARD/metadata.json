@@ -403,9 +403,6 @@
                     "y": 81
                 }
             ],
-            "favorites": [
-                "RyTbQ06zSK0"
-            ],
             "id": "b8F1kKlV9Fk",
             "name": "MAL - 8.Malaria Elimination",
             "restrictFilters": false,
@@ -1566,7 +1563,7 @@
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_EL",
         "description": "",
-        "lastUpdated": "20220614T103605",
+        "lastUpdated": "20220615T151215",
         "locale": "en",
         "name": "MAL_AGG_EL_DSH_DHIS2.36.11.1-en",
         "type": "DSH",
@@ -2010,10 +2007,9 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "Countries should choose either the mean+2SD OR MEDIAN (threhhold) (MAL - Malaria confirmed MEDIAN (threshold)  ), but not both. To put this in guidance (better in elimination settings).",
+            "description": "Countries should choose either the mean+2SD OR MEDIAN (threshold) (MAL - Malaria confirmed MEDIAN (threshold)), but not both. To put this in guidance (better in elimination settings).",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -2102,6 +2098,7 @@
             "series": [],
             "sharing": {
                 "external": false,
+                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {
                     "WyU2lGUPLBv": {
@@ -3292,7 +3289,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
