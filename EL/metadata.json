@@ -1618,6 +1618,148 @@
             "attributeValues": [],
             "categoryOptionGroups": [
                 {
+                    "id": "yuathFHLjNe"
+                },
+                {
+                    "id": "V9t81g7Wspa"
+                },
+                {
+                    "id": "HkomAEMQt5e"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "description": "Age categorisation in years.",
+            "id": "AzDcxg4bW1N",
+            "name": "Age in years (0-4, 5-14, 15+)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Edad en años (0-4, 5-14, 15+, desconocido)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Idade em anos (0-4, 5-14, 15+, desconhecido)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "DESCRIPTION",
+                    "value": "Ёш бўйича категориялар, йилларда."
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "DESCRIPTION",
+                    "value": "Ёш бўйича категориялар, йилларда."
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Edad en años (0-4, 5-14, 15+, desconocido)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Categorización de edad en años"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Věk v letech (0-4, 5-14, 15+, neznámé)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade em anos."
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Věková kategorizace v letech."
+                },
+                {
+                    "locale": "nb",
+                    "property": "DESCRIPTION",
+                    "value": "Alderkategorisering i år"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade em anos."
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Catégorisation âge en année"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Age (paludisme avec inconnu)"
+                },
+                {
+                    "locale": "id",
+                    "property": "DESCRIPTION",
+                    "value": "Kategorisasi usia dalam tahun"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Idade em anos (0-4, 5-14, 15+, desconhecido)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Alder i år (0-4, 5-14, 15+, ukjent)"
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Categorización de edad en años"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
                     "id": "bqoVhX2RfG4"
                 },
                 {
@@ -1871,6 +2013,180 @@
             "categoryOptions": [
                 {
                     "id": "UPvKbcqTEY3"
+                },
+                {
+                    "id": "pa0cY66MrG6"
+                }
+            ],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "f5VxIY91Jz3",
+            "name": "0-14 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "0-14 years",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 Anos "
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 tahun"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "0-14 år"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 años"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 ans"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 ёш"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "0-14 ёш"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "0-14 Anos "
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 let"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 ёш"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "0-14 años"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 лет"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 år"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 años"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "0-14 Anos "
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "0-14 let"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "0-14 tahun"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "0-14 ans"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "0-14 años"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "0-14 лет"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 Anos "
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "0-14 ёш"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "UPvKbcqTEY3"
                 }
             ],
             "code": "P0Y--P5Y",
@@ -2041,8 +2357,188 @@
                 }
             ],
             "dataDimensionType": "DISAGGREGATION",
+            "id": "SqvDE9fTeGl",
+            "name": "15+ years (Multiple)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "15+ years (Multiple)",
+            "translations": [
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "15+ år"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "15+ años"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "15+ ans"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "15+ ёш"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ans"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "15+ ёш"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "15+ лет"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "15+ años"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ёш"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "15+ años"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "15+ años"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "15+ anos"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "15+ Tahun"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "15+ let"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "15+ лет"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "15+ anos"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ёш"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "15+ år"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "15+ anos"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "15+ Tahun"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "15+ let"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "15+ anos"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "wTpH7wugXzZ"
+                }
+            ],
+            "dataDimensionType": "DISAGGREGATION",
             "id": "HkomAEMQt5e",
-            "name": "15+ years (specific age)",
+            "name": "15+ years (single age)",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2050,7 +2546,7 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "15+ years (specific)",
+            "shortName": "15+ years (single age)",
             "translations": [
                 {
                     "locale": "fr",
@@ -2531,6 +3027,38 @@
                     "value": "إناث"
                 }
             ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "wTpH7wugXzZ"
+                },
+                {
+                    "id": "FFA9e1yIXCT"
+                },
+                {
+                    "id": "UPvKbcqTEY3"
+                },
+                {
+                    "id": "pa0cY66MrG6"
+                },
+                {
+                    "id": "MP15bHaQh2x"
+                }
+            ],
+            "code": "GNAG00",
+            "id": "O2MSX2uAySC",
+            "name": "GEN - Category Options",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Category Options",
+            "translations": []
         },
         {
             "attributeValues": [],
@@ -4189,9 +4717,6 @@
                     "y": 81
                 }
             ],
-            "favorites": [
-                "RyTbQ06zSK0"
-            ],
             "id": "b8F1kKlV9Fk",
             "name": "MAL - 8.Malaria Elimination",
             "restrictFilters": false,
@@ -4229,6 +4754,111 @@
                     "id": "jtyuEfbNbkb"
                 },
                 {
+                    "id": "Gq9q1I1t60k"
+                },
+                {
+                    "id": "QUk2XwhVL7n"
+                },
+                {
+                    "id": "yHS1RqIFeD7"
+                },
+                {
+                    "id": "lZi1cjtvVB6"
+                },
+                {
+                    "id": "GxlrIgMyEf4"
+                },
+                {
+                    "id": "UH47dKFqTRK"
+                },
+                {
+                    "id": "IUrl6HtHVQI"
+                },
+                {
+                    "id": "enVf9I39FRZ"
+                },
+                {
+                    "id": "pmRn0GsUfr6"
+                },
+                {
+                    "id": "UMD2TSAxtFr"
+                },
+                {
+                    "id": "lz1FE0wvo1m"
+                },
+                {
+                    "id": "mIefFUftPpa"
+                },
+                {
+                    "id": "ENIbHvgpaQR"
+                },
+                {
+                    "id": "Eoc8cDA52c3"
+                },
+                {
+                    "id": "iMcQ1MedqGo"
+                },
+                {
+                    "id": "HMUc4RajgaC"
+                },
+                {
+                    "id": "WBmvvafUwT8"
+                },
+                {
+                    "id": "jKGVvTehpps"
+                },
+                {
+                    "id": "jvjJ901K56K"
+                },
+                {
+                    "id": "Wm0uUlvGfOQ"
+                },
+                {
+                    "id": "lgDGha7OO9o"
+                },
+                {
+                    "id": "mDCNvNfweci"
+                },
+                {
+                    "id": "QFz6w4llj0h"
+                },
+                {
+                    "id": "CHM9i82Xvid"
+                },
+                {
+                    "id": "BjDrgVrkBI3"
+                },
+                {
+                    "id": "yVGY0DGVPor"
+                },
+                {
+                    "id": "a4Cw4iPcMrY"
+                },
+                {
+                    "id": "s9FmEvF0r4n"
+                },
+                {
+                    "id": "vTRrNdOOT9g"
+                },
+                {
+                    "id": "h9DNhuHHgkH"
+                },
+                {
+                    "id": "n0tgQ4PjnnT"
+                },
+                {
+                    "id": "EHbjdbiKtd8"
+                },
+                {
+                    "id": "EQOuTaSaFOn"
+                },
+                {
+                    "id": "Ppc51eaCPHb"
+                },
+                {
+                    "id": "vfIbhthFgHT"
+                },
+                {
                     "id": "Qzfvt1YRb1Y"
                 },
                 {
@@ -4238,13 +4868,7 @@
                     "id": "GVkqWp9gP5b"
                 },
                 {
-                    "id": "Gq9q1I1t60k"
-                },
-                {
                     "id": "g6T1sC2ZSFD"
-                },
-                {
-                    "id": "QUk2XwhVL7n"
                 },
                 {
                     "id": "VL73cqNHxBJ"
@@ -4268,106 +4892,49 @@
                     "id": "WNcIBqTodHr"
                 },
                 {
-                    "id": "yHS1RqIFeD7"
+                    "id": "cOVhTyW8zN6"
                 },
                 {
                     "id": "QJUcVI1zY5y"
                 },
                 {
-                    "id": "lZi1cjtvVB6"
-                },
-                {
                     "id": "yMIgzlV9sES"
-                },
-                {
-                    "id": "GxlrIgMyEf4"
                 },
                 {
                     "id": "rbqe6Td5rNI"
                 },
                 {
-                    "id": "IUrl6HtHVQI"
-                },
-                {
-                    "id": "enVf9I39FRZ"
-                },
-                {
-                    "id": "UMD2TSAxtFr"
-                },
-                {
-                    "id": "pmRn0GsUfr6"
-                },
-                {
-                    "id": "lz1FE0wvo1m"
-                },
-                {
-                    "id": "mIefFUftPpa"
-                },
-                {
-                    "id": "ENIbHvgpaQR"
-                },
-                {
-                    "id": "Eoc8cDA52c3"
-                },
-                {
                     "id": "LH9FKWl1FfP"
-                },
-                {
-                    "id": "iMcQ1MedqGo"
                 },
                 {
                     "id": "KNAg6VC23us"
                 },
                 {
-                    "id": "HMUc4RajgaC"
-                },
-                {
-                    "id": "jKGVvTehpps"
+                    "id": "NywGy6uMS5r"
                 },
                 {
                     "id": "Md3xk3vlABx"
                 },
                 {
+                    "id": "MJFRkoiH4KQ"
+                },
+                {
                     "id": "lYsfXxCw6Qi"
-                },
-                {
-                    "id": "jvjJ901K56K"
-                },
-                {
-                    "id": "Wm0uUlvGfOQ"
                 },
                 {
                     "id": "a2hiTowGc0N"
                 },
                 {
-                    "id": "lgDGha7OO9o"
-                },
-                {
                     "id": "kc07jdV2C3B"
-                },
-                {
-                    "id": "mDCNvNfweci"
-                },
-                {
-                    "id": "QFz6w4llj0h"
-                },
-                {
-                    "id": "lY309oiMifk"
-                },
-                {
-                    "id": "CHM9i82Xvid"
                 },
                 {
                     "id": "DPNsg3wjxGm"
                 },
                 {
-                    "id": "BjDrgVrkBI3"
+                    "id": "lY309oiMifk"
                 },
                 {
                     "id": "v0WZQQ6gKAX"
-                },
-                {
-                    "id": "yVGY0DGVPor"
                 },
                 {
                     "id": "gSlR6YgWw45"
@@ -4376,22 +4943,13 @@
                     "id": "SXGjaEobp6V"
                 },
                 {
-                    "id": "nwzSeTAxCGV"
-                },
-                {
                     "id": "FyouhDzv0bP"
                 },
                 {
+                    "id": "nwzSeTAxCGV"
+                },
+                {
                     "id": "WoVoIProU89"
-                },
-                {
-                    "id": "a4Cw4iPcMrY"
-                },
-                {
-                    "id": "s9FmEvF0r4n"
-                },
-                {
-                    "id": "vTRrNdOOT9g"
                 },
                 {
                     "id": "TMaDgAn60aR"
@@ -4403,37 +4961,19 @@
                     "id": "llpG8qA0SvG"
                 },
                 {
-                    "id": "h9DNhuHHgkH"
-                },
-                {
                     "id": "ra1VTaKQK60"
-                },
-                {
-                    "id": "n0tgQ4PjnnT"
                 },
                 {
                     "id": "oNqsWW6eD3L"
                 },
                 {
-                    "id": "EHbjdbiKtd8"
-                },
-                {
-                    "id": "EQOuTaSaFOn"
-                },
-                {
                     "id": "OCuA0tI3BCi"
-                },
-                {
-                    "id": "Ppc51eaCPHb"
                 },
                 {
                     "id": "S9nIxTMWplW"
                 },
                 {
                     "id": "LhcXjWs6lm7"
-                },
-                {
-                    "id": "vfIbhthFgHT"
                 },
                 {
                     "id": "DYpakDmCvNG"
@@ -4543,6 +5083,31 @@
             ],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "AVERAGE_SUM_ORG_UNIT",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "GEN_PREG_EXPECT",
+            "domainType": "AGGREGATE",
+            "formName": "Population of expected pregnant women",
+            "id": "WBmvvafUwT8",
+            "legendSets": [],
+            "name": "GEN - Population expected pregnant women",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Pop expected pregnant",
+            "translations": [],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": false
         },
         {
             "aggregationLevels": [],
@@ -5003,6 +5568,73 @@
             },
             "shortName": "BR57-Malaria inpatients (pregnant women)",
             "translations": [],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": true
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "MAL_LLIN_DISTR_NB",
+            "description": "Number of long-lasting insecticidal nets (LLINs) routinely distributed to infants",
+            "domainType": "AGGREGATE",
+            "formName": "Number of LLINs distributed to infants",
+            "id": "MJFRkoiH4KQ",
+            "legendSets": [],
+            "name": "MAL - Long lasting insecticide treated nets distributed to infants",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "LLINs distributed to infants",
+            "translations": [],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": true
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "MAL_LLIN_DISTR_PW",
+            "description": "Number of long-lasting insecticidal nets (LLINs) routinely distributed to pregnant women",
+            "domainType": "AGGREGATE",
+            "formName": "Number of LLINs distributed to pregnant women",
+            "id": "UH47dKFqTRK",
+            "legendSets": [],
+            "name": "MAL - Long lasting insecticide treated nets distributed to pregnant women",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "LLINs distributed to pregnant women",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Nombre total de MILDAs distribuées"
+                }
+            ],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true
         },
@@ -6337,6 +6969,47 @@
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
             },
+            "code": "MAL_PEOPLE_PROT_BY_IRS",
+            "description": "Number of people at risk living in households that received indoor-residual spraying (IRS) in the last 12 months",
+            "domainType": "AGGREGATE",
+            "formName": "People at risk protected by IRS",
+            "id": "NywGy6uMS5r",
+            "legendSets": [],
+            "name": "MAL - People protected by IRS",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "People protected by IRS",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Nombre de personnes protégées par la PID"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": true
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "SUM",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
             "code": "MAL_PF_CASES_TREAT_WITH_ACT_ONLY",
             "description": "Number of P. falciparum cases potentially treated only with full ACT treatment courses",
             "domainType": "AGGREGATE",
@@ -6694,6 +7367,47 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "P. vivax (TDR)"
+                }
+            ],
+            "valueType": "INTEGER_ZERO_OR_POSITIVE",
+            "zeroIsSignificant": true
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "AVERAGE_SUM_ORG_UNIT",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "MAL_POP_AT_RISK",
+            "description": "Population living in areas where malaria transmission is possible, i.e. population living in either endemic area, active foci, non-active and cleared-up foci",
+            "domainType": "AGGREGATE",
+            "formName": "Population at risk",
+            "id": "cOVhTyW8zN6",
+            "legendSets": [],
+            "name": "MAL - Population at risk for malaria",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "WyU2lGUPLBv": {
+                        "access": "rw------",
+                        "id": "WyU2lGUPLBv"
+                    },
+                    "fNt8hFGEo9d": {
+                        "access": "r-------",
+                        "id": "fNt8hFGEo9d"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Population at risk for malaria",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Population à risque"
                 }
             ],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
@@ -7298,180 +8012,6 @@
             ],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "AVERAGE_SUM_ORG_UNIT",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "GEN_PREG_EXPECT",
-            "domainType": "AGGREGATE",
-            "formName": "Population of expected pregnant women",
-            "id": "WBmvvafUwT8",
-            "legendSets": [],
-            "name": "GEN - Population expected pregnant women",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Pop expected pregnant",
-            "translations": [],
-            "valueType": "INTEGER_ZERO_OR_POSITIVE",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "MAL_LLIN_DISTR_NB",
-            "description": "Number of long-lasting insecticidal nets (LLINs) routinely distributed to infants",
-            "domainType": "AGGREGATE",
-            "formName": "Number of LLINs distributed to infants",
-            "id": "MJFRkoiH4KQ",
-            "legendSets": [],
-            "name": "MAL - Long lasting insecticide treated nets distributed to infants",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "LLINs distributed to infants",
-            "translations": [],
-            "valueType": "INTEGER_ZERO_OR_POSITIVE",
-            "zeroIsSignificant": true
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "MAL_LLIN_DISTR_PW",
-            "description": "Number of long-lasting insecticidal nets (LLINs) routinely distributed to pregnant women",
-            "domainType": "AGGREGATE",
-            "formName": "Number of LLINs distributed to pregnant women",
-            "id": "UH47dKFqTRK",
-            "legendSets": [],
-            "name": "MAL - Long lasting insecticide treated nets distributed to pregnant women",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "LLINs distributed to pregnant women",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Nombre total de MILDAs distribuées"
-                }
-            ],
-            "valueType": "INTEGER_ZERO_OR_POSITIVE",
-            "zeroIsSignificant": true
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "MAL_PEOPLE_PROT_BY_IRS",
-            "description": "Number of people at risk living in households that received indoor-residual spraying (IRS) in the last 12 months",
-            "domainType": "AGGREGATE",
-            "formName": "People at risk protected by IRS",
-            "id": "NywGy6uMS5r",
-            "legendSets": [],
-            "name": "MAL - People protected by IRS",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "People protected by IRS",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Nombre de personnes protégées par la PID"
-                }
-            ],
-            "valueType": "INTEGER_ZERO_OR_POSITIVE",
-            "zeroIsSignificant": true
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "AVERAGE_SUM_ORG_UNIT",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "MAL_POP_AT_RISK",
-            "description": "Population living in areas where malaria transmission is possible, i.e. population living in either endemic area, active foci, non-active and cleared-up foci",
-            "domainType": "AGGREGATE",
-            "formName": "Population at risk",
-            "id": "cOVhTyW8zN6",
-            "legendSets": [],
-            "name": "MAL - Population at risk for malaria",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "WyU2lGUPLBv": {
-                        "access": "rw------",
-                        "id": "WyU2lGUPLBv"
-                    },
-                    "fNt8hFGEo9d": {
-                        "access": "r-------",
-                        "id": "fNt8hFGEo9d"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Population at risk for malaria",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Population à risque"
-                }
-            ],
-            "valueType": "INTEGER_ZERO_OR_POSITIVE",
-            "zeroIsSignificant": true
         }
     ],
     "dataEntryForms": [],
@@ -7492,81 +8032,7 @@
                         "id": "IvYR8mc6prX"
                     },
                     "dataElement": {
-                        "id": "lY309oiMifk"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "Eoc8cDA52c3"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "lz1FE0wvo1m"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "JuuvtzLw22M"
-                    },
-                    "dataElement": {
-                        "id": "mDCNvNfweci"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "cE8SDxizo5s"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "S9nIxTMWplW"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "IvYR8mc6prX"
-                    },
-                    "dataElement": {
-                        "id": "enVf9I39FRZ"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "l7gcisIvTBN"
+                        "id": "QJUcVI1zY5y"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -7585,61 +8051,6 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "BwnnrV1AkNj"
-                    },
-                    "dataElement": {
-                        "id": "v0WZQQ6gKAX"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "g6T1sC2ZSFD"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "IvYR8mc6prX"
-                    },
-                    "dataElement": {
-                        "id": "lgDGha7OO9o"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "IvYR8mc6prX"
-                    },
-                    "dataElement": {
-                        "id": "jtyuEfbNbkb"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "IvYR8mc6prX"
-                    },
-                    "dataElement": {
-                        "id": "TMaDgAn60aR"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
@@ -7650,22 +8061,8 @@
                     }
                 },
                 {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
                     "dataElement": {
-                        "id": "lZi1cjtvVB6"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "BwnnrV1AkNj"
-                    },
-                    "dataElement": {
-                        "id": "BjDrgVrkBI3"
+                        "id": "n0tgQ4PjnnT"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -7676,7 +8073,7 @@
                         "id": "IvYR8mc6prX"
                     },
                     "dataElement": {
-                        "id": "a2hiTowGc0N"
+                        "id": "vTRrNdOOT9g"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -7684,18 +8081,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "LhcXjWs6lm7"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "JuuvtzLw22M"
-                    },
-                    "dataElement": {
-                        "id": "FyouhDzv0bP"
+                        "id": "lYsfXxCw6Qi"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -7706,62 +8092,7 @@
                         "id": "IvYR8mc6prX"
                     },
                     "dataElement": {
-                        "id": "jvjJ901K56K"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "LH9FKWl1FfP"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "mIefFUftPpa"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "IvYR8mc6prX"
-                    },
-                    "dataElement": {
-                        "id": "WNcIBqTodHr"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "IvYR8mc6prX"
-                    },
-                    "dataElement": {
-                        "id": "llpG8qA0SvG"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "Md3xk3vlABx"
+                        "id": "yVGY0DGVPor"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -7780,212 +8111,6 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "JuuvtzLw22M"
-                    },
-                    "dataElement": {
-                        "id": "UMD2TSAxtFr"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "SXGjaEobp6V"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "rbqe6Td5rNI"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "IvYR8mc6prX"
-                    },
-                    "dataElement": {
-                        "id": "DYpakDmCvNG"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "IvYR8mc6prX"
-                    },
-                    "dataElement": {
-                        "id": "ra1VTaKQK60"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "JuuvtzLw22M"
-                    },
-                    "dataElement": {
-                        "id": "EHbjdbiKtd8"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "hEQeamIKO5z"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "JuuvtzLw22M"
-                    },
-                    "dataElement": {
-                        "id": "jKGVvTehpps"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "GVkqWp9gP5b"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "h9DNhuHHgkH"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "HHpmA3PRXlJ"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "BwnnrV1AkNj"
-                    },
-                    "dataElement": {
-                        "id": "GxlrIgMyEf4"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "JuuvtzLw22M"
-                    },
-                    "dataElement": {
-                        "id": "oNqsWW6eD3L"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "IvYR8mc6prX"
-                    },
-                    "dataElement": {
-                        "id": "QFz6w4llj0h"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "IvYR8mc6prX"
-                    },
-                    "dataElement": {
-                        "id": "IUrl6HtHVQI"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "s9FmEvF0r4n"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "Qzfvt1YRb1Y"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "kc07jdV2C3B"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "ENIbHvgpaQR"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
                         "id": "IvYR8mc6prX"
                     },
                     "dataElement": {
@@ -7997,10 +8122,10 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
+                        "id": "JuuvtzLw22M"
                     },
                     "dataElement": {
-                        "id": "OCuA0tI3BCi"
+                        "id": "UMD2TSAxtFr"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8011,7 +8136,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "QUk2XwhVL7n"
+                        "id": "vfIbhthFgHT"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8019,10 +8144,10 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "IvYR8mc6prX"
+                        "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "EQOuTaSaFOn"
+                        "id": "LH9FKWl1FfP"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8034,17 +8159,6 @@
                     },
                     "dataElement": {
                         "id": "gSlR6YgWw45"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "IvYR8mc6prX"
-                    },
-                    "dataElement": {
-                        "id": "iMcQ1MedqGo"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8074,10 +8188,98 @@
                 },
                 {
                     "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "Md3xk3vlABx"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
                         "id": "IvYR8mc6prX"
                     },
                     "dataElement": {
-                        "id": "Ppc51eaCPHb"
+                        "id": "IUrl6HtHVQI"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "BwnnrV1AkNj"
+                    },
+                    "dataElement": {
+                        "id": "GxlrIgMyEf4"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "iMcQ1MedqGo"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "Qzfvt1YRb1Y"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "llpG8qA0SvG"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "enVf9I39FRZ"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "KNAg6VC23us"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "JuuvtzLw22M"
+                    },
+                    "dataElement": {
+                        "id": "EHbjdbiKtd8"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8099,7 +8301,29 @@
                         "id": "JuuvtzLw22M"
                     },
                     "dataElement": {
-                        "id": "Wm0uUlvGfOQ"
+                        "id": "oNqsWW6eD3L"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "JuuvtzLw22M"
+                    },
+                    "dataElement": {
+                        "id": "jKGVvTehpps"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "mIefFUftPpa"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8118,18 +8342,10 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "IvYR8mc6prX"
+                        "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "KNAg6VC23us"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "n0tgQ4PjnnT"
+                        "id": "M91K9z70dl4"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8140,7 +8356,73 @@
                         "id": "IvYR8mc6prX"
                     },
                     "dataElement": {
-                        "id": "koNkg93tcFv"
+                        "id": "TMaDgAn60aR"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "lY309oiMifk"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "ra1VTaKQK60"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "JuuvtzLw22M"
+                    },
+                    "dataElement": {
+                        "id": "Wm0uUlvGfOQ"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "BwnnrV1AkNj"
+                    },
+                    "dataElement": {
+                        "id": "v0WZQQ6gKAX"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "s9FmEvF0r4n"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "JuuvtzLw22M"
+                    },
+                    "dataElement": {
+                        "id": "FyouhDzv0bP"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8148,7 +8430,26 @@
                 },
                 {
                     "dataElement": {
-                        "id": "nwzSeTAxCGV"
+                        "id": "LhcXjWs6lm7"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "jtyuEfbNbkb"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "SXGjaEobp6V"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8170,7 +8471,169 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "M91K9z70dl4"
+                        "id": "Eoc8cDA52c3"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "a2hiTowGc0N"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "EQOuTaSaFOn"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "QUk2XwhVL7n"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "DYpakDmCvNG"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "koNkg93tcFv"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "rbqe6Td5rNI"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "lgDGha7OO9o"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "l7gcisIvTBN"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "BwnnrV1AkNj"
+                    },
+                    "dataElement": {
+                        "id": "BjDrgVrkBI3"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "nwzSeTAxCGV"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "ENIbHvgpaQR"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "jvjJ901K56K"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "kc07jdV2C3B"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "lZi1cjtvVB6"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "HHpmA3PRXlJ"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8182,6 +8645,80 @@
                     },
                     "dataElement": {
                         "id": "Gq9q1I1t60k"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "cE8SDxizo5s"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "lz1FE0wvo1m"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "hEQeamIKO5z"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "QFz6w4llj0h"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "GVkqWp9gP5b"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "h9DNhuHHgkH"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "JuuvtzLw22M"
+                    },
+                    "dataElement": {
+                        "id": "mDCNvNfweci"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8200,18 +8737,21 @@
                 },
                 {
                     "categoryCombo": {
+                        "id": "IvYR8mc6prX"
+                    },
+                    "dataElement": {
+                        "id": "Ppc51eaCPHb"
+                    },
+                    "dataSet": {
+                        "id": "VEM58nY22sO"
+                    }
+                },
+                {
+                    "categoryCombo": {
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "vfIbhthFgHT"
-                    },
-                    "dataSet": {
-                        "id": "VEM58nY22sO"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "lYsfXxCw6Qi"
+                        "id": "g6T1sC2ZSFD"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8222,7 +8762,7 @@
                         "id": "IvYR8mc6prX"
                     },
                     "dataElement": {
-                        "id": "QJUcVI1zY5y"
+                        "id": "WNcIBqTodHr"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8230,10 +8770,10 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "IvYR8mc6prX"
+                        "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "vTRrNdOOT9g"
+                        "id": "OCuA0tI3BCi"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -8241,10 +8781,10 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "IvYR8mc6prX"
+                        "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "yVGY0DGVPor"
+                        "id": "S9nIxTMWplW"
                     },
                     "dataSet": {
                         "id": "VEM58nY22sO"
@@ -9432,7 +9972,7 @@
         "DHIS2Version": "2.36.11.1",
         "code": "MAL_AGG_EL",
         "description": "",
-        "lastUpdated": "20220614T103605",
+        "lastUpdated": "20220617T142208",
         "locale": "en",
         "name": "MAL_AGG_EL_AGG_DHIS2.36.11.1-en",
         "type": "AGG",
@@ -10898,10 +11438,9 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "Countries should choose either the mean+2SD OR MEDIAN (threhhold) (MAL - Malaria confirmed MEDIAN (threshold)  ), but not both. To put this in guidance (better in elimination settings).",
+            "description": "Countries should choose either the mean+2SD OR MEDIAN (threshold) (MAL - Malaria confirmed MEDIAN (threshold)), but not both. To put this in guidance (better in elimination settings).",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
@@ -10990,6 +11529,7 @@
             "series": [],
             "sharing": {
                 "external": false,
+                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {
                     "WyU2lGUPLBv": {
@@ -12180,7 +12720,6 @@
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
             "filterDimensions": [
                 "ou"
             ],
