@@ -1,4 +1,4 @@
-# Malaria - System Design Document { #mal-agg-200-design}
+# Malaria - System Design Document { #mal-agg-design}
 
 Version 2.0.0
 
