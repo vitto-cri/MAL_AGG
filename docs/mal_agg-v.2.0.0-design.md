@@ -205,7 +205,7 @@ The three user groups created include:
 
 Whereas it is important to maintain these userGroups while installing this package, feel free to review them in line with any existing userGroups setup or policy in the host instance.
 
-## Special Considerations: Malaria by health sector
+## Special Considerations: Malaria data disaggregated by public facility vs. private sector vs community service delivery 
 
 As mentioned in the section on Analytics and Indicators of this design guide, this section is set to provide some suggestions and considerations on the analysis and visualization of the detected cases of malaria according to the type of facility ownership (public or private), and the cases detected in the community.
 
@@ -217,9 +217,16 @@ The WHO requirements for the CORE malaria aggregate  data reporting included the
 
 Given the wide range of set-ups and configurations of the hierarchy and organizational units (OUs), this section will advise the users and implementers a few solutions and propositions.
 
+**Scenario 1**: Community data and/or private sector facilities are maintained as their own organisation units in the DHIS2 org unit hierarchy. 
+* The same data elements can be reused, while orgunit groups can enable filtering and org unit group sets can enable slicing/disaggregating the data by public/private/community. For example, an Org Unit Group Set for 'Facility/Service Delivery Type' can contain org unit groups for Public Facility, Private Facility, CHW to disaggregate reported malaria cases, tests, etc/
+
+**Scenario 2**: Community and/or private sector data are not reported through separate org units, but instead reported at (public) facility or district level
+* In this scenario, separate data elements for community or private sector reported data can be created to signify the source of reporting; new indicators can be added to sum up community, private sector and facility cases reported across these data elements. This can be the case when using the CHIS package for malaria, which contains a separate set of data elements for community reporting of malaria cases. 
+* Another alternative is to add a facility/private sector/community category for disaggregation of 1) data elements, or 2) the whole data set. In this case, indicators for malaria cases by public vs. private vs. community would need to be configured for each CatCombo. 
+
 ### Malaria cases detected in the public and private sector
 
-As of the latest DHIS2 version release (2.37) the number of facilities can still only be obtained by setting up a **predictor**.
+As of the latest DHIS2 version release (2.37), indicators counting the number of organisation units (e.g. facilities) can only be obtained by setting up a **predictor**.
 
 In order to ease the technical configuration of the package, a solution to this could be the use of a DE or an indicator (e.g. MAL - Confirmed malaria cases (micr + RDT) or MAL - Malaria cases detected) and filter the analysis by the groupSet assigned to the OUs (private or public).
 
