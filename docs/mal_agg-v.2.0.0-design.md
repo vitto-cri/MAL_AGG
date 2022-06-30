@@ -14,7 +14,9 @@ These data sets will in many instances have to be adjusted to fit with national 
 
 ### Version update
 
-The version of the malaria package described in this design guide is an improved and more comprehensive adaptation of the package with version 1.2.1. Please refer to the downloadable [Diff File](resources/mal_agg_diff_1.2.1_2.0.0.xlsx) in order to have an overview of the differences between teh two versions.
+The version of the malaria package described in this design guide is an improved and more comprehensive adaptation of the package with version 1.2.1. 
+Most changes affected the burden reduction dataset, which now collects more information on testing and treatment of detected malaria cases. Another major change is reflected in the dahsboards, which have now been further broken down by activity in order to have a better overview of the local program. The package now comes with nine enumerated dashboards including a number of new and improved visualizations, and suggestions for interpretations. The remaining minor changes involved the improvement of metadata names and descriptions. 
+Please refer to the downloadable [Diff File](resources/mal_agg_diff_1.2.1_2.0.0.xlsx) in order to have a detailed summary of the differences between the two versions.
 
 ### Package Structure
 
